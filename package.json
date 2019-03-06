@@ -1,6 +1,6 @@
 {
-  "name": "vux",
-  "version": "2.9.2",
+  "name": "koala-vux",
+  "version": "0.0.1",
   "main": "index.js",
   "description": "Mobile web UI based on Vue and WeUI",
   "keywords": [
@@ -16,10 +16,10 @@
     "framework",
     "frontend"
   ],
-  "author": "airyland <airyland@qq.com>",
+  "author": "keifc <1585185302@qq.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airyland/vux"
+    "url": "https://github.com/john-blessing/vux.git"
   },
   "license": "MIT",
   "scripts": {
